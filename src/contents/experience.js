@@ -2,7 +2,7 @@ import { faGithub, faMedium, faYoutube } from "@fortawesome/free-brands-svg-icon
 
 export const data = [
     {
-        date: "April’1 - Sep’30",
+        date: "1/4/2025 - 30/9/2025",
         title: "Manao Software - Quality Analyst Intern",
         materials: [
             { type: faGithub, link: "https://github.com/faysiripa/learn-automated-testing-py"}
@@ -17,7 +17,7 @@ export const data = [
         ],
     },
     {
-        date: "2025",
+        date: "1/9/2025 - 6/9/2025",
         title: "International Engineering Design Challenge (IEDC 2025) in Noshiro, Japan",
         materials: [
             { type: faYoutube, link: "https://youtu.be/wP-MANVCDJQ?si=NY2zP1netu15GfGu" },
