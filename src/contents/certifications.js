@@ -11,7 +11,7 @@ import CertDepa from "../assets/depaCert.jpg";
 
 export const data = [
     {
-        date: "2026",
+        date: "22/12/2025",
         title: "IT Specialist - Cybersecurity",
         descriptions: [
             'Issued by Certiport, a Pearson VUE business.',
@@ -19,7 +19,7 @@ export const data = [
         picture: CertITS,
     },
     {
-        date: "2026",
+        date: "13/1/2026",
         title: "DEPA Penetration Tester Certification ",
         descriptions: [
             'Online training for 10 days (60 hours) with hands-on workshops, covering the full spectrum of VAPT, Threat Hunting, SIEM, and security tools.',
