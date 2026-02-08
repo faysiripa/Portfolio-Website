@@ -1,8 +1,28 @@
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import picProductWeb from "../assets/crud-product-web.png";
 import picWebBuilder from "../assets/web-builder.jpg";
+import picBookWorm from "../assets/book-worm.jpg";
 
 export const data = [
+    {
+        date: "2026",
+        title: "BookWorm",
+        materials: [
+            {
+                type: faGithub,
+                link: "https://github.com/faysiripa/BookWorm",
+            },
+        ],
+        descriptions: [
+            "Build a full stack book review mobile app.",
+            "Features: Auth, Home Feed, Create Post, Profile Screen, Delete Post, 4 instant themes, Web support, Logout.",
+        ],
+        techs: [
+            ["React Native"], // frontend
+            ["MongoDB", "Express", "Node"], // backend
+        ],
+        picture: picBookWorm,
+    },
     {
         date: "2025",
         title: "Product Website",
@@ -14,7 +34,7 @@ export const data = [
             },
         ],
         descriptions: [
-            "My first full stack project that serves as an opportunity for me to deepen my understanding of CRUD operations create, read, update, and delete products.",
+            "My first full stack website development project that serves as an opportunity for me to deepen my understanding of CRUD operations create, read, update, and delete products.",
         ],
         techs: [
             ["React", "Tailwind"], // frontend
