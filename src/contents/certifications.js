@@ -1,4 +1,4 @@
-import CertITS from "../assets/its-cert.jpg";
+import CertITS from "../assets/ITS-Cert.jpg";
 import CertDepa from "../assets/depa-cert.jpg";
 import CertExcellence from "../assets/excellence-cert.jpg";
 import { faLink } from "@fortawesome/free-solid-svg-icons";
