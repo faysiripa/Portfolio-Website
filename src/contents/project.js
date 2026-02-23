@@ -6,11 +6,11 @@ import picBookWorm from "../assets/book-worm.jpg";
 export const data = [
     {
         date: "2026",
-        title: "BookWorm",
+        title: "Book Review App",
         materials: [
             {
                 type: faGithub,
-                link: "https://github.com/faysiripa/BookWorm",
+                link: "https://github.com/faysiripa/Book-Review-App",
             },
         ],
         descriptions: [
@@ -25,7 +25,7 @@ export const data = [
     },
     {
         date: "2025",
-        title: "Product Website",
+        title: "Ecommerce Website",
         link: "https://mern-crash-course-v91l.onrender.com",
         materials: [
             {
