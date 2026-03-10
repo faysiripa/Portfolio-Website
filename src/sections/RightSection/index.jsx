@@ -16,7 +16,7 @@ const RightSection = () => {
             />
 
             <ContentContainer
-                title='Project'
+                title='Projects'
                 data={projectData}
             />
 

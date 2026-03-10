@@ -6,7 +6,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const navs = [
     // { title: 'About', sectionId: 'About-section' },
     { title: 'Experience', sectionId: 'Experience-section' },
-    { title: 'Project', sectionId: 'Project-section' },
+    { title: 'Projects', sectionId: 'Project-section' },
     { title: 'Certifications', sectionId: 'Certifications-section' },
 ]
 
